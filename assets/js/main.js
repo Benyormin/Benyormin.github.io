@@ -305,7 +305,29 @@
       images: ["assets/img/portfolio/netflix.jpg"],
       category: "Web development",
       projectURL: "https://github.com/Benyormin/Netflix-website",
+    },
+    {
+      title: "Football Fantasy Optimizer",
+      description: "This project utilizes linear regression and linear programming to suggest an optimized fantasy football team for premier league 2024/2025. The approach focuses on maximizing long-term performance by leveraging statistical modeling to select players while adhering to budget constraints.",
+      images: ["assets/img/portfolio/fantasy-premier-league.png"],
+      category: "Machine Learning",
+      projectURL: "https://github.com/Benyormin/fantasy-football-solver",
+    },
+    {
+      title: "Football Live Score",
+      description: "This is an Android application that fetches and displays live football match scores using the Football Data API",
+      images: ["assets/img/portfolio/Live_score.png"],
+      category: "Android, Java",
+      projectURL: "https://github.com/Benyormin/football-live-score/tree/main",
+    },
+    {
+      title: "Sudoku Solver",
+      description: "A simple android application that solves the sudoku puzzle using a backtracking algorithm.",
+      images: ["assets/img/portfolio/sudoku.png"],
+      category: "Android, Java",
+      projectURL: "https://github.com/Benyormin/sudokusolver",
     }
+
     
   ];
 
